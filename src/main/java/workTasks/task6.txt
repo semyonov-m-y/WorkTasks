@@ -1,0 +1,8 @@
+win/linux
+
+a) cd / cd
+b) mkdir / mkdir
+c) copy / cp
+d) rmdir / rmdir
+e) type / cat /путь/имя_файла
+
